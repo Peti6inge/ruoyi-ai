@@ -1,7 +1,7 @@
 #基础镜像
 FROM findepi/graalvm:java17-native
 
-# 设置环境变量
+# 设置环境变量 
 ENV LANG C.UTF-8
 ENV LANGUAGE C.UTF-8
 ENV LC_ALL C.UTF-8
